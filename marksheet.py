@@ -1,3 +1,4 @@
+### Program for making a marksheet ###
 Name=input("Please enter your name: ")
 #Subject variable specify the marks in that subject
 #Lets assume there are 4 subjects
